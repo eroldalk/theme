@@ -4,6 +4,13 @@
     background-size: cover;
     height: 100%;
 }
+#write-review{
+  margin-left: 50px;
+}
+#product-prices{
+  font-size: 30px;
+  color: red;
+}
 
 html {
     position: relative;
@@ -27,11 +34,12 @@ body > .container {
     padding: 60px 15px 0;
   }
   
-  .footer > .container {
+.footer > .container {
     padding-right: 15px;
     padding-left: 15px;
   }
   
-  code {
+code {
     font-size: 80%;
   }
+

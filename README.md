@@ -1,2 +1,2 @@
 # theme
-e-ticaret sitesi
+e-ticaret sitesi için  Bootstrap Teması geliştirdim.
